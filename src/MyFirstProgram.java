@@ -153,5 +153,7 @@ public class MyFirstProgram {
 
         double[] myDoubles = new double[3];
         System.out.println(Arrays.toString(myDoubles));
+
+        System.out.println("BLA BLA");
     }
 }
