@@ -19,6 +19,6 @@ public class MyEightProgram {
 
         System.out.println(Arrays.toString(numbers));
 
-        System.out.println("Super new feature");
+        System.out.println("Super new feature edited");
     }
 }
