@@ -2,6 +2,10 @@ import java.util.Arrays;
 
 public class MyEightProgram {
 
+    public static int add (int a, int b) {
+        return a + b;
+    }
+
     // for cyklus a pole
     public static void main(String[] args) {
         int[] numbers = new int[10];
