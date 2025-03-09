@@ -3,7 +3,8 @@ import java.util.Arrays;
 public class MyEightProgram {
 
     public static int add (int a, int b) {
-        return a + b;
+        int result = a + b;
+        return result;
     }
 
     // for cyklus a pole
