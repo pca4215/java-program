@@ -2,8 +2,8 @@ import java.util.Arrays;
 
 public class MyEightProgram {
 
-    public static int add (int a, int b) {
-        int result = a + b;
+    public static int add (int a, int b, int c) {
+        int result = a + b + c;
         return result;
     }
 
